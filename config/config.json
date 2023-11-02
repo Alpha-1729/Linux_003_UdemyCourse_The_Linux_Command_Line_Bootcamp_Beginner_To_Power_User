@@ -1,1 +1,27 @@
-{"coordinate": {"x": 2273, "y": 1283}, "grid": {"length": 108, "breadth": 64}, "button": {"length": 28, "breadth": 32}, "section": {"prefix": "LINUX", "number": 3, "latest": "002-LINUX-Command_Basics"}, "template": {"prefix": "", "number": 8, "section": "002-LINUX-Command_Basics", "latest": "007-Options_That_Require_Parameters", "pre-run-command": ""}, "run-command": "bash Program.sh"}
+{
+    "coordinate": {
+        "x": 2273,
+        "y": 1283
+    },
+    "grid": {
+        "length": 108,
+        "breadth": 64
+    },
+    "button": {
+        "length": 28,
+        "breadth": 32
+    },
+    "section": {
+        "prefix": "LINUX",
+        "number": 3,
+        "latest": "002-LINUX-Command_Basics"
+    },
+    "template": {
+        "prefix": "",
+        "number": 8,
+        "section": "002-LINUX-Command_Basics",
+        "latest": "007-Options_That_Require_Parameters",
+        "pre-run-command": ""
+    },
+    "run-command": "bash Program.sh"
+}
