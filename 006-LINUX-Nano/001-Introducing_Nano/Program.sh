@@ -1,0 +1,9 @@
+#!/bin/bash
+# Introducing Nano
+
+:'
+>>>>
+>>>>
+>>>>
+>>>>
+'
