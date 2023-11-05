@@ -1,0 +1,6 @@
+chocolate 19.99 12
+fish 13 2
+house 199.99 1
+pencil 0.50 49
+pizza 5 1
+race-car 50 3
