@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DATE=$(date +%d-%m-%Y-%M)
+BACKUP_DIR="/home/colt/backups"
+
+tar -cvzf $BACKUP_DIR/backup-$DATE.tar.gz /home/colt/Desktop
