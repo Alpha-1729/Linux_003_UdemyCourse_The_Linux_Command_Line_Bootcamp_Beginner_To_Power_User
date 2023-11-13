@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# This is a test program.
+
+echo "Hello there, $USER"
+echo "Today is $(date)"
